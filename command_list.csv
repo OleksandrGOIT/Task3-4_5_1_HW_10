@@ -12,7 +12,7 @@
    12  nano .gitignore
    13  git status
    14  git add .
-   15  git commit -m "text_ignore.txt was ignored"
+   15  
    16  touch main_test.txt
    17  git add .
    18  git commit -m "main_test.txt was created"
@@ -25,4 +25,4 @@
    25  git add .
    26  git commit -m "develop_test.txt was changed"
    27  git checkout main
-   28 
+   28 history > command_list.csv
