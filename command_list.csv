@@ -4,7 +4,7 @@
     4  clear
     5  touch main_test.txt
     6  git add .
-    7  git commit -m "main_test.txt is added"
+    7  
     8  git push origin main
     9  git clone https://github.com/AndrewBondarev/HW_10.git  
    10  cd HW_10
